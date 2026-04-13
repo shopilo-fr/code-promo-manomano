@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-manomano",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo ManoMano depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-manomano",
+    "bon-de-reduction-manomano",
+    "coupon-manomano",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/manomano.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-manomano.git"
+  }
+}
